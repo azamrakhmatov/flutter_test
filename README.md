@@ -1,16 +1,10 @@
-# exam
+# Exam Flutter CRUD App
 
-A new Flutter project.
+이 프로젝트는 Flutter로 개발된 간단한 CRUD(조회, 추가, 수정, 삭제) 애플리케이션이며,  
+`https://jsonplaceholder.typicode.com` API를 사용하여 데이터를 조회하고, 추가하며, 수정 및 삭제할 수 있습니다.
 
-## Getting Started
+## 프로젝트 실행 방법
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1**패키지 설치 (Dependencies 설치)**
+```bash
+flutter pub get
