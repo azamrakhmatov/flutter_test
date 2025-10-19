@@ -111,9 +111,11 @@ environment:
   sdk: ^3.9.2
 
 dependencies:
+  image_picker: ^1.0.7 # profile img 
   flutter:
     sdk: flutter
   supabase_flutter: ^2.5.0
+  timeago: ^3.7.1
   flutter_dotenv: ^5.1.0
   math_expressions: ^2.4.0
   cupertino_icons: ^1.0.8

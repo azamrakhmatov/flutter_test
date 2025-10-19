@@ -88,7 +88,7 @@ class _ChatPageState extends State<ChatPage> {
                   child: TextField(
                     controller: _messageController,
                     decoration: const InputDecoration(
-                      hintText: "Xabar yozing...",
+                      hintText: "메시지 입력...",
                       border: OutlineInputBorder(),
                     ),
                   ),
